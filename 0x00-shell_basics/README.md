@@ -9,3 +9,4 @@ delete file betty from directory
 delete my first directory from /tmp
 changing to previous directory
 changing to previous directory
+script that lists from various folders
