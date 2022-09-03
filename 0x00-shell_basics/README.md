@@ -7,3 +7,4 @@ script that creates a directory in tmp
 move file betty to another directory
 delete file betty from directory
 delete my first directory from /tmp
+changing to previous directory
