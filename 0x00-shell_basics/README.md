@@ -6,3 +6,4 @@ current directory contents long format with user group IDs and hidden files
 script that creates a directory in tmp
 move file betty to another directory
 delete file betty from directory
+delete my first directory from /tmp
