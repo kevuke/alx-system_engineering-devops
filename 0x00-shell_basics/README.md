@@ -10,3 +10,6 @@ delete my first directory from /tmp
 changing to previous directory
 changing to previous directory
 script that lists from various folders
+file /tmp/imafile
+print the type of the file named iamafile in /tmp
+file /tmp/iamafile
