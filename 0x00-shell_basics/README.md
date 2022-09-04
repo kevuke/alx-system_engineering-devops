@@ -13,3 +13,4 @@ script that lists from various folders
 file /tmp/imafile
 print the type of the file named iamafile in /tmp
 file /tmp/iamafile
+creates a symbolic link to /bin/ls named __ls__
