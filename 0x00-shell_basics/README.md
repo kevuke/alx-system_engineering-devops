@@ -14,3 +14,4 @@ file /tmp/imafile
 print the type of the file named iamafile in /tmp
 file /tmp/iamafile
 creates a symbolic link to /bin/ls named __ls__
+copy all HTML files from the current wdir to pdir
