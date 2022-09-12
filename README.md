@@ -1,1 +1,1 @@
-Task 0. Where am I?
+Crea a script that creates an alias. Name: ls Value: rm *
